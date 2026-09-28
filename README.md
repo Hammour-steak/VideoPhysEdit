@@ -13,6 +13,10 @@ Official repository for **VideoPhysEdit**, a training-free pipeline for physical
 
 Given a source video, a physical edit, and its execution frame, VideoPhysEdit generates a counterfactual video depicting the resulting motion and interactions. It reconstructs an executable physical scene that explains the observed motion, applies the edit in simulation, and uses the resulting trajectories to guide video generation. Supported edits include object insertion, object removal, and changes to physical parameters or velocity.
 
+## Pipeline
+
+![VideoPhysEdit pipeline: physical scene reconstruction, physical intervention, and counterfactual video generation.](assets/pipeline.png)
+
 ## Code
 
 **Code coming soon.** We are preparing the implementation and usage instructions for release.

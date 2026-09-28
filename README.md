@@ -4,6 +4,8 @@
 </h1>
 
 <p align="center">
+  <!-- Replace the temporary URL with the official arXiv link when available. -->
+  <a href="https://www.baidu.com/"><img src="https://img.shields.io/badge/arXiv-Paper-B31B1B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv Paper"></a>
   <a href="https://videophysedit.github.io/"><img src="https://img.shields.io/badge/Project-Page-2563EB?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
   <a href="https://huggingface.co/datasets/ccmoony/PCVE-RigidBench"><img src="https://img.shields.io/badge/Hugging_Face-Dataset-FFD21E?style=flat&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face Dataset"></a>
   <a href="https://github.com/Hammour-steak/PCVE-RigidBench"><img src="https://img.shields.io/badge/Benchmark-Code-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="Benchmark Code"></a>

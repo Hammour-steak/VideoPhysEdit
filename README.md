@@ -1,9 +1,7 @@
-<h1 align="center">VideoPhysEdit</h1>
-
-<p align="center">
-  <b>Physical Counterfactual Video Editing<br>
-  via Rigid-Body Physical Scene Reconstruction</b>
-</p>
+<h1 align="center">
+  VideoPhysEdit: Physical Counterfactual Video Editing<br>
+  via Rigid-Body Physical Scene Reconstruction
+</h1>
 
 <p align="center">
   <a href="https://videophysedit.github.io/">Project Page</a> &nbsp;|&nbsp;

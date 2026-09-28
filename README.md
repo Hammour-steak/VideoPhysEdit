@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hammour-steak/PCVE-RigidBench">PCVE-RigidBench</a>
+  <a href="https://videophysedit.github.io/">Project Page</a> &nbsp;|&nbsp;
+  <a href="https://huggingface.co/datasets/ccmoony/PCVE-RigidBench">Dataset (Hugging Face)</a> &nbsp;|&nbsp;
+  <a href="https://github.com/Hammour-steak/PCVE-RigidBench">Benchmark Code</a>
 </p>
 
 Official repository for **VideoPhysEdit**, a training-free pipeline for physical counterfactual video editing in rigid-body scenes.
@@ -19,4 +21,4 @@ Given a source video, a physical edit, and its execution frame, VideoPhysEdit ge
 
 ## Benchmark
 
-[PCVE-RigidBench](https://github.com/Hammour-steak/PCVE-RigidBench) provides paired source and counterfactual target videos, physical ground truth, and evaluation tools for physical counterfactual video editing.
+PCVE-RigidBench provides paired source and counterfactual target videos and physical ground truth for physical counterfactual video editing. Download the dataset from [Hugging Face](https://huggingface.co/datasets/ccmoony/PCVE-RigidBench) and find the evaluation tools in the [benchmark repository](https://github.com/Hammour-steak/PCVE-RigidBench).

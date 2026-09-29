@@ -4,16 +4,12 @@
 </h1>
 
 <p align="center">
-  Conghan Yue, Yuanjie Chen, Yue Han, Ya Gao, Yunyan Xiao, WeiYao Zhang, Zhineng Chen<sup>†</sup>
+  <a href="mailto:chyue25@m.fudan.edu.cn" title="Email Conghan Yue">Conghan Yue</a>, Yuanjie Chen, Yue Han, Ya Gao, Yunyan Xiao, WeiYao Zhang, Zhineng Chen<sup>†</sup>
 </p>
 
 <p align="center">
   Institute of Trustworthy Embodied AI, Fudan University<br>
   <sup>†</sup>Corresponding author
-</p>
-
-<p align="center">
-  Contact: Conghan Yue · <a href="mailto:chyue25@m.fudan.edu.cn">chyue25@m.fudan.edu.cn</a>
 </p>
 
 <p align="center">

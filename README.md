@@ -4,18 +4,15 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:chyue25@m.fudan.edu.cn" title="Email Conghan Yue">Conghan Yue</a>, Yuanjie Chen, Yue Han, Ya Gao, Yunyan Xiao, WeiYao Zhang, Zhineng Chen<sup>†</sup>
-</p>
-
-<p align="center">
+  <a href="mailto:chyue25@m.fudan.edu.cn" title="Email Conghan Yue">Conghan Yue</a>, Yuanjie Chen, Yue Han, Ya Gao, Yunyan Xiao, WeiYao Zhang, Zhineng Chen<sup>†</sup><br>
   Institute of Trustworthy Embodied AI, Fudan University<br>
-  <sup>†</sup>Corresponding author
+  <sub>† Corresponding author</sub>
 </p>
 
 <p align="center">
-  <img src="assets/identity/fudan-blue.svg" alt="Fudan University" width="54" height="54" align="middle">
+  <img src="assets/identity/fudan-blue.svg" alt="Fudan University" width="48" height="48" align="middle">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/identity/teai-blue.svg" alt="Institute of Trustworthy Embodied AI, Fudan University" width="300" height="39" align="middle">
+  <img src="assets/identity/teai-blue.svg" alt="Institute of Trustworthy Embodied AI, Fudan University" width="276" height="36" align="middle">
 </p>
 
 <p align="center">

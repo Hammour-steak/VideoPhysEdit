@@ -4,8 +4,7 @@
 </h1>
 
 <p align="center">
-  <!-- Replace the temporary URL with the official arXiv link when available. -->
-  <a href="https://www.baidu.com/"><img src="https://img.shields.io/badge/arXiv-Paper-B31B1B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv Paper"></a>
+  <a href="https://arxiv.org/abs/2609.35134"><img src="https://img.shields.io/badge/arXiv-Paper-B31B1B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv Paper"></a>
   <a href="https://videophysedit.github.io/"><img src="https://img.shields.io/badge/Project-Page-2563EB?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
   <a href="https://huggingface.co/datasets/ccmoony/PCVE-RigidBench"><img src="https://img.shields.io/badge/Hugging_Face-Dataset-FFD21E?style=flat&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face Dataset"></a>
   <a href="https://github.com/Hammour-steak/PCVE-RigidBench"><img src="https://img.shields.io/badge/Benchmark-Code-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="Benchmark Code"></a>
@@ -26,3 +25,19 @@ Given a source video, a physical edit, and its execution frame, VideoPhysEdit ge
 ## Benchmark
 
 PCVE-RigidBench provides paired source and counterfactual target videos and physical ground truth for physical counterfactual video editing. Download the dataset from [Hugging Face](https://huggingface.co/datasets/ccmoony/PCVE-RigidBench) and find the evaluation tools in the [benchmark repository](https://github.com/Hammour-steak/PCVE-RigidBench).
+
+## Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@misc{yue2026videophysedit,
+  title={VideoPhysEdit: Physical Counterfactual Video Editing via Rigid-Body Physical Scene Reconstruction},
+  author={Conghan Yue and Yuanjie Chen and Yue Han and Ya Gao and Yunyan Xiao and WeiYao Zhang and Zhineng Chen},
+  year={2026},
+  eprint={2609.35134},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2609.35134}
+}
+```

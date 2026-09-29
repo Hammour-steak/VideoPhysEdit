@@ -17,6 +17,12 @@
 </p>
 
 <p align="center">
+  <img src="assets/identity/fudan-blue.svg" alt="Fudan University" width="54" height="54" align="middle">
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/identity/teai-blue.svg" alt="Institute of Trustworthy Embodied AI, Fudan University" width="300" height="39" align="middle">
+</p>
+
+<p align="center">
   <a href="https://arxiv.org/abs/2609.35134"><img src="https://img.shields.io/badge/arXiv-Paper-B31B1B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv Paper"></a>
   <a href="https://videophysedit.github.io/"><img src="https://img.shields.io/badge/Project-Page-2563EB?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
   <a href="https://huggingface.co/datasets/ccmoony/PCVE-RigidBench"><img src="https://img.shields.io/badge/Hugging_Face-Dataset-FFD21E?style=flat&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face Dataset"></a>

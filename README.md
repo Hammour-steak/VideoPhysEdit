@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  Contact: Conghan Yue · <a href="mailto:chyue25@m.fudan.edu.cn">chyue25@m.fudan.edu.cn</a>
+</p>
+
+<p align="center">
   <a href="https://arxiv.org/abs/2609.35134"><img src="https://img.shields.io/badge/arXiv-Paper-B31B1B?style=flat&amp;logo=arxiv&amp;logoColor=white" alt="arXiv Paper"></a>
   <a href="https://videophysedit.github.io/"><img src="https://img.shields.io/badge/Project-Page-2563EB?style=flat&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
   <a href="https://huggingface.co/datasets/ccmoony/PCVE-RigidBench"><img src="https://img.shields.io/badge/Hugging_Face-Dataset-FFD21E?style=flat&amp;logo=huggingface&amp;logoColor=FFD21E" alt="Hugging Face Dataset"></a>
@@ -50,7 +54,3 @@ If you find this work useful, please cite:
   url={https://arxiv.org/abs/2609.35134}
 }
 ```
-
-## Contact
-
-For questions about VideoPhysEdit, please contact Conghan Yue at [chyue25@m.fudan.edu.cn](mailto:chyue25@m.fudan.edu.cn).

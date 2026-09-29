@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <picture><img src="assets/identity/fudan-blue.svg" alt="Fudan University" width="48" height="48" align="middle"></picture>
-  &nbsp;&nbsp;&nbsp;
-  <picture><img src="assets/identity/teai-blue.svg" alt="Institute of Trustworthy Embodied AI, Fudan University" width="276" height="36" align="middle"></picture>
+  <picture><img src="assets/identity/institution-logos.svg" alt="Fudan University and Institute of Trustworthy Embodied AI" width="348" height="64" align="middle"></picture>
 </p>
 
 <p align="center">

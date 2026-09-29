@@ -6,7 +6,7 @@
 <p align="center">
   <a href="mailto:chyue25@m.fudan.edu.cn" title="Email Conghan Yue">Conghan Yue</a>, Yuanjie Chen, Yue Han, Ya Gao, Yunyan Xiao, WeiYao Zhang, Zhineng Chen<sup>†</sup><br>
   Institute of Trustworthy Embodied AI, Fudan University<br>
-  <picture><img src="assets/identity/corresponding-author.svg" alt="† Corresponding author" width="164" height="24" align="top"></picture>
+  † Corresponding author
 </p>
 
 <p align="center">

@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/identity/fudan-blue.svg" alt="Fudan University" width="48" height="48" align="middle">
+  <picture><img src="assets/identity/fudan-blue.svg" alt="Fudan University" width="48" height="48" align="middle"></picture>
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/identity/teai-blue.svg" alt="Institute of Trustworthy Embodied AI, Fudan University" width="276" height="36" align="middle">
+  <picture><img src="assets/identity/teai-blue.svg" alt="Institute of Trustworthy Embodied AI, Fudan University" width="276" height="36" align="middle"></picture>
 </p>
 
 <p align="center">
